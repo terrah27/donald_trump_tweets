@@ -3,3 +3,5 @@
 
 Libraries Used:
 * spaCy
+
+Having trouble viewing notebooks on Github?  Try https://nbviewer.jupyter.org/
